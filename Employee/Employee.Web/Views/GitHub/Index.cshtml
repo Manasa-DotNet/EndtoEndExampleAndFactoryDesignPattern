@@ -1,0 +1,45 @@
+﻿@model List<Employee.Web.Services.GitHubItem>
+
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+               Name
+            </th>
+            <th>
+               Full Name
+            </th>
+            <th>
+               Private
+            </th>
+          
+            <th>
+               Description
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.full_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item._private)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>
+
