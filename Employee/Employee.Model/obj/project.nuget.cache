@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPJ9L7EVI6fuI8wXUjes8hB222UbWPSRyVHrkT5JezigCWzz/p7hO0bZjLYX4RtwrsvypN9q0u/G4JDHHdCPwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batch_q6na17p\\Downloads\\Employee\\Employee\\Employee.Model\\Employee.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batch_q6na17p\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\batch_q6na17p\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\batch_q6na17p\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
