@@ -1,0 +1,10 @@
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\batch_q6na17p\source\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
